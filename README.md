@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fotima Jaloldinova</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Backend Developer | Python • Django • Django REST Framework • PostgreSQL</h3>
 
 - 📫 How to reach me **fotimajaloldinova6@gmail.com**
 
